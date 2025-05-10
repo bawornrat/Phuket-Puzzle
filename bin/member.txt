@@ -1,7 +1,0 @@
-นายอธิกันต์ หมู่พยัค รหัสนิสิต 64102010087
-นางสาวบวรรัตน์ หลิมเจริญ รหัสนิสิต 64102010294
-
->>>README อาจารย์ครับไฟล์ภาษาไทยอาจจะเพี้ยนโปรดทำตามนี้นะครับ
-1. เปิด Eclipse แล้วไปที่เมนู Window -> Preferences
-2. General -> Workspaces จะพบกับ Text file encoding ให้เลือก Other : UTF-8 แล้วกดปุ่ม Apply 
-3. Eclipse ทำการเปลี่ยนแปลง Text file encoding และแสดงภาษาไทยบน console ได้
