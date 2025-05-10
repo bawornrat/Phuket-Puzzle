@@ -6,3 +6,7 @@
 
 ![image](https://github.com/user-attachments/assets/44cf463a-91fa-4ceb-aecc-517340585bbb)
 
+ไฟล์ภาษาไทยอาจจะเพี้ยนโปรดทำตามนี้
+1. เปิด Eclipse แล้วไปที่เมนู Window -> Preferences
+2. General -> Workspaces จะพบกับ Text file encoding ให้เลือก Other : UTF-8 แล้วกดปุ่ม Apply 
+3. Eclipse ทำการเปลี่ยนแปลง Text file encoding และแสดงภาษาไทยบน console ได้
